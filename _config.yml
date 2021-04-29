@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
-title: Mayx的博客
-logo: https://avatars0.githubusercontent.com/u/17966333
-author: mayx
+title: Yicen的博客
+logo: https://avatars.githubusercontent.com/u/55955101?v=4
+author: Yicen
 excerpt_separator: <!--more-->
-paginate: 5
+paginate: 6
 plugins:
   - jekyll-sitemap
   - jekyll-feed
