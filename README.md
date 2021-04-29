@@ -4,7 +4,6 @@ layout: default
 
 # Mayx的博客
 Mayx's Home Page   
-Powered by [Jekyll](https://github.com/jekyll/jekyll)
 
 ## 使用的开源项目
 [gitalk](https://github.com/gitalk/gitalk)   
